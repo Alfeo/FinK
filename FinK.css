@@ -1,0 +1,313 @@
+/* COLUMN PART */
+
+.fink1
+{
+	width:10%;
+	left:0%;
+}
+
+.fink2
+{
+	width:20%;
+	left:0%;
+}
+
+.fink3
+{
+	width:30%;
+	left:0%;
+}
+
+.fink4
+{
+	width:40%;
+	left:0%;
+}
+
+.fink5
+{
+	width:50%;
+	left:0%;
+}
+
+.fink6
+{
+	width:60%;
+	left:0%;
+}
+
+.fink7
+{
+	width:70%;
+	left:0%;
+}
+
+.fink8
+{
+	width:80%;
+	left:0%;
+}
+
+.fink9
+{
+	width:90%;
+	left:0%;
+}
+
+.finkfull
+{
+	width:100%;
+}
+
+/* OFFSET PART */
+
+.finkoff1
+{
+	margin-left:10%;
+}
+
+.finkoff2
+{
+	margin-left:20%;
+}
+
+.finkoff3
+{
+	margin-left:30%;
+}
+
+.finkoff4
+{
+	margin-left:40%;
+}
+
+.finkoff5
+{
+	margin-left:50%;
+}
+
+.finkoff6
+{
+	margin-left:60%;
+}
+
+.finkoff7
+{
+	margin-left:70%;
+}
+
+.finkoff8
+{
+	margin-left:80%;
+}
+
+.finkoff9
+{
+	margin-left:90%;
+}
+
+/* SIZE PART */
+
+.finksize01
+{
+	height:10px;
+}
+
+.finksize025
+{
+	height:25px;
+}
+
+.finksize05
+{
+	height:50px;
+}
+
+.finksize075
+{
+	height:75px;
+}
+
+.finksize1
+{
+	height:100px;
+}
+
+.finksize2
+{
+	height:200px;	
+}
+
+.finksize3
+{
+	height:300px;
+}
+
+.finksize4
+{
+	height:400px;
+}
+
+.finksize5
+{
+	height:500px;
+}
+
+/* ALIGN PART */
+
+.finkalign1
+{
+	margin-top:-100px;
+}
+
+.finkalign2
+{
+	margin-top:-200px;
+}
+
+.finkalign3
+{
+	margin-top:-300px;
+}
+
+.finkalign4
+{
+	margin-top:-400px;
+}
+
+.finkalign5
+{
+	margin-top:-500px;
+}
+
+/* TEXT PART */
+
+h1
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+h2
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+h3
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+h4
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+h5
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+h6
+{
+	display:inline;
+	font-family:sans-serif;
+}
+
+.finktextsize01
+{
+	font-size:10px;
+}
+
+.finktextsize025
+{
+	font-size:25px;
+}
+
+.finktextsize05
+{
+	font-size:50px;
+}
+
+.finktextsize075
+{
+	font-size:75px;
+}
+
+.finktextsize1
+{
+	font-size:100px;
+}
+
+.finktextwhite
+{
+	color:#FFFFFF;
+}
+
+/* COLOR PART */
+
+.finkwhite
+{
+	background-color:#FFFFFF;
+}
+
+.finkblack
+{
+	background-color:#000000;
+}
+
+.finkorange
+{
+	background-color:#FE9A2E;
+}
+
+.finkblue
+{
+	background-color:#00BFFF;
+}
+
+.finkgrey
+{
+	background-color:#A4A4A4;
+}
+
+.finkred
+{
+	background-color:#FE2E2E;
+}
+
+/* OTHER */
+
+.finkcenter
+{
+	text-align:center;
+}
+
+.finkpara
+{
+	top:0%;
+	left:0%;
+	position:fixed;
+	z-index:-1;
+	width:100%;
+	height:100%;
+}
+
+.finklogo
+{
+	height:75px;
+	width:75px;
+	border:solid black #000000;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+}
+
+.finktop20
+{
+	padding-top:20px;
+}
